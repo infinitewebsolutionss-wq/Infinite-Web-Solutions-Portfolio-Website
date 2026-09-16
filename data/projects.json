@@ -1,0 +1,46 @@
+[
+  {
+    "id": "angeles-urgent-care",
+    "title": "Angeles Urgent Care",
+    "url": "https://angelesurgentcare.com/",
+    "category": ["healthcare", "fullstack"],
+    "badge": "Healthcare Portal",
+    "badgeColor": "emerald",
+    "description": "Responsive healthcare portal focused on patient accessibility, streamlined online appointment scheduling, and a clean medical layout.",
+    "tags": ["React", "Patient Portal", "Tailwind CSS", "HIPAA Compliant"],
+    "image": "assets/images/angeles-urgent-care.png"
+  },
+  {
+    "id": "all-med-la",
+    "title": "All Med LA",
+    "url": "https://www.allmedla.org/",
+    "category": ["healthcare", "enterprise"],
+    "badge": "Medical Organization",
+    "badgeColor": "cyan",
+    "description": "Professional medical organization website optimized for patient trust, fast navigation, provider directories, and multi-facility search.",
+    "tags": ["Next.js", "Provider Directory", "Fast Navigation", "SEO Architecture"],
+    "image": "assets/images/all-med-la.png"
+  },
+  {
+    "id": "la-ent",
+    "title": "LA ENT",
+    "url": "https://www.laent.com/",
+    "category": ["healthcare", "fullstack"],
+    "badge": "Specialized Medical Practice",
+    "badgeColor": "teal",
+    "description": "Specialized Ear, Nose, & Throat medical practice web design featuring user-friendly service architecture, treatment information, and appointment booking.",
+    "tags": ["Custom UI/UX", "Interactive Services", "Node API", "Mobile First"],
+    "image": "assets/images/la-ent.png"
+  },
+  {
+    "id": "cnhf-clinics",
+    "title": "CNHF Clinics",
+    "url": "https://www.cnhfclinics.org/",
+    "category": ["healthcare", "enterprise"],
+    "badge": "Comprehensive Clinics",
+    "badgeColor": "emerald",
+    "description": "Comprehensive clinic network solution emphasizing crisp medical UI, seamless information flow, multi-location mapping, and community health resources.",
+    "tags": ["Multi-Clinic UI", "Maps Integration", "Accessibility", "Performance"],
+    "image": "assets/images/cnhf-clinics.png"
+  }
+]
