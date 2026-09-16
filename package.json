@@ -1,0 +1,17 @@
+{
+  "name": "infinite-web-solutions",
+  "version": "1.0.0",
+  "description": "Enterprise & Healthcare Web Engineering Agency Portfolio Backend",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "nodemailer": "^10.0.10"
+  }
+}
